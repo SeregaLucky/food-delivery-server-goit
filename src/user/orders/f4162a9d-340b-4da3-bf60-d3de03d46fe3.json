@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "order": {
+    "id": "f4162a9d-340b-4da3-bf60-d3de03d46fe3",
+    "user": "b0afab2e-8df8-4014-b636-8a75d53ab76f",
+    "products": [19112831, 19112832, 19112834],
+    "deliveryType": "delivery",
+    "deliveryAdress": "<deliveryAdressText>"
+  }
+}

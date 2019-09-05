@@ -1,0 +1,18 @@
+{
+  "list": {
+    "b0afab2e-8df8-4014-b636-8a75d53ab76f": {
+      "username": "Ivan1",
+      "telephone": "063 777 77 77",
+      "password": "12345",
+      "email": "ivan@gmail.com",
+      "id": "b0afab2e-8df8-4014-b636-8a75d53ab76f"
+    },
+    "a89dd67e-d6e3-4806-92a9-c1d18c604fcd": {
+      "username": "Ivan2",
+      "telephone": "063 777 77 77",
+      "password": "12345",
+      "email": "ivan@gmail.com",
+      "id": "a89dd67e-d6e3-4806-92a9-c1d18c604fcd"
+    }
+  }
+}
